@@ -53,24 +53,12 @@ npm install
 npm start
 ```
 
-### Deploy on Vercel (Recommended)
-1. Push this repo to GitHub
-2. Connect to [vercel.com](https://vercel.com)
-3. Deploy with one click
-
-### Alternative: Deploy on Netlify
-1. Run `npm run build`
-2. Drag `build` folder to [netlify.com](https://netlify.com)
-
 ## Tech Stack
 - **Frontend**: React
 - **Language**: JavaScript
 - **Styling**: Modern CSS with gradients & animations
 - **Deployment**: Vercel/Netlify
 
-## Screenshots
-
-*(Add 2-3 screenshots of the app interface)*
 
 ## Important Disclaimer
 
