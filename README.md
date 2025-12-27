@@ -8,7 +8,7 @@ Traditional financial products don't reward sustainable behavior. This prototype
 
 ## Live Demo
 
-🚀 **[Try the Live Demo](https://your-app-name.vercel.app)** *(Deploy and update this link)*
+🚀 **[Try the Live Demo](https://inspiring-tanuki-b0c661.netlify.app/)** 
 
 ## Features
 
